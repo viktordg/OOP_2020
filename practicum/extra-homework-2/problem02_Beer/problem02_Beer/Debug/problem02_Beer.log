@@ -1,0 +1,82 @@
+﻿  problem02_Beer.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(153): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(153): error C2146: syntax error: missing ';' before identifier 'WINAPI'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(159): error C2146: syntax error: missing ';' before identifier 'uaw_lstrcmpW'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(160): error C2065: 'PCUWSTR': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(160): error C2146: syntax error: missing ')' before identifier 'String1'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(166): error C2086: 'int APIENTRY': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(158): note: see declaration of 'APIENTRY'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(166): error C2146: syntax error: missing ';' before identifier 'uaw_lstrcmpiW'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(167): error C2065: 'PCUWSTR': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(167): error C2146: syntax error: missing ')' before identifier 'String1'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(173): error C2146: syntax error: missing ';' before identifier 'uaw_lstrlenW'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(174): error C2065: 'LPCUWSTR': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(175): error C2146: syntax error: missing ')' before identifier 'String'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(178): error C2143: syntax error: missing ';' before '__cdecl'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(178): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(180): error C2065: 'PCUWSTR': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(180): error C2146: syntax error: missing ')' before identifier 'String'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(185): error C2143: syntax error: missing ';' before '__cdecl'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(185): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(185): error C2086: 'int PUWSTR': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(177): note: see declaration of 'PUWSTR'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(187): error C2146: syntax error: missing ')' before identifier 'Destination'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(194): error C2065: 'PCUWSTR': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(194): error C2146: syntax error: missing ')' before identifier 'String1'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(201): error C2065: 'PCUWSTR': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(202): error C2146: syntax error: missing ')' before identifier 'String'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(205): error C2143: syntax error: missing ';' before '__cdecl'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(205): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(205): error C2086: 'int PUWSTR': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(177): note: see declaration of 'PUWSTR'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(207): error C2065: 'PCUWSTR': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(207): error C2146: syntax error: missing ')' before identifier 'String'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(316): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(316): error C2146: syntax error: missing ';' before identifier 'UNALIGNED'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(316): error C2143: syntax error: missing ';' before '*'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(328): error C2144: syntax error: 'int' should be preceded by ';'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(326): error C7525: inline variables require at least '/std:c++17'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(328): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(328): error C2040: 'PUWSTR_C': 'int' differs in levels of indirection from 'int *'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(329): error C2065: 'PCUWSTR': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(329): error C2146: syntax error: missing ')' before identifier 'String'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(332): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(332): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(343): error C2144: syntax error: 'int' should be preceded by ';'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(341): error C7525: inline variables require at least '/std:c++17'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(343): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(343): error C2040: 'PUWSTR_C': 'int' differs in levels of indirection from 'int *'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(344): error C2065: 'PCUWSTR': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(344): error C2146: syntax error: missing ')' before identifier 'String'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(347): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(347): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(419): error C2144: syntax error: 'int' should be preceded by ';'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(416): error C7525: inline variables require at least '/std:c++17'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(419): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(419): error C2086: 'int PUWSTR': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(177): note: see declaration of 'PUWSTR'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(420): error C2146: syntax error: missing ')' before identifier 'Destination'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(423): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(423): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(443): error C2144: syntax error: 'int' should be preceded by ';'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(441): error C7525: inline variables require at least '/std:c++17'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(443): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(443): error C2086: 'int PUWSTR': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(177): note: see declaration of 'PUWSTR'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(444): error C2146: syntax error: missing ')' before identifier 'Destination'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(448): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(448): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(462): error C2065: 'PCUWSTR': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(463): error C2146: syntax error: missing ')' before identifier 'String'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(464): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(464): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(478): error C2065: 'PCUWSTR': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(478): error C2146: syntax error: missing ')' before identifier 'String1'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(481): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h(481): error C2447: '{': missing function header (old-style formal list?)
+  Beer.cpp
+d:\su_2019_2020\oop_2020\practicum\extra-homework-2\problem02_beer\problem02_beer\beer.cpp(39): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+d:\su_2019_2020\oop_2020\practicum\extra-homework-2\problem02_beer\problem02_beer\beer.cpp(40): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+  Generating Code...

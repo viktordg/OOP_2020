@@ -1,0 +1,8 @@
+Array size: 
+2
+hammer
+159
+8.5
+screw driver
+753
+6.4

@@ -1,0 +1,5 @@
+﻿  problem02.cpp
+d:\oop-2020\practicum\w1\problem02\problem02\problem02.cpp(40): warning C4101: 'B': unreferenced local variable
+d:\oop-2020\practicum\w1\problem02\problem02\problem02.cpp(48): warning C4101: 'D': unreferenced local variable
+d:\oop-2020\practicum\w1\problem02\problem02\problem02.cpp(44): warning C4101: 'C': unreferenced local variable
+  problem02.vcxproj -> D:\OOP-2020\practicum\w1\problem02\Debug\problem02.exe

@@ -1,0 +1,6 @@
+﻿  Worker.cpp
+  SalariedWorker.cpp
+  HourlyWorker.cpp
+d:\su_2019_2020\oop_2020\practicum\extra-homework-5\problem01\problem01\hourlyworker.cpp(52): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  problem01.vcxproj -> D:\SU_2019_2020\OOP_2020\practicum\extra-homework-5\problem01\Debug\problem01.exe

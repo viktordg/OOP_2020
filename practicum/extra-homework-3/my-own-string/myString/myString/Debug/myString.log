@@ -1,0 +1,11 @@
+﻿  String.cpp
+d:\su_2019_2020\oop_2020\lectures\my-own-string\mystring\mystring\string.h(16): warning C4018: '<': signed/unsigned mismatch
+d:\su_2019_2020\oop_2020\lectures\my-own-string\mystring\mystring\string.h(25): warning C4018: '<': signed/unsigned mismatch
+d:\su_2019_2020\oop_2020\lectures\my-own-string\mystring\mystring\string.cpp(46): warning C4018: '<': signed/unsigned mismatch
+d:\su_2019_2020\oop_2020\lectures\my-own-string\mystring\mystring\string.cpp(79): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+d:\su_2019_2020\oop_2020\lectures\my-own-string\mystring\mystring\string.cpp(120): warning C4715: 'String::operator-': not all control paths return a value
+d:\su_2019_2020\oop_2020\lectures\my-own-string\mystring\mystring\string.h(35): warning C4715: 'String::substringIndex': not all control paths return a value
+  Skipping... (no relevant changes detected)
+  myString.cpp
+  myString.vcxproj -> D:\SU_2019_2020\OOP_2020\lectures\my-own-string\myString\Debug\myString.exe

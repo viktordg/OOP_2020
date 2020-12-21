@@ -1,0 +1,8 @@
+﻿  sudoku.cpp
+d:\su_2019_2020\oop_2020\practicum\w2\sudoku\sudoku\sudoku.cpp(127): warning C4551: function call missing argument list
+d:\su_2019_2020\oop_2020\practicum\w2\sudoku\sudoku\sudoku.cpp(27): warning C4715: 'checkCol': not all control paths return a value
+d:\su_2019_2020\oop_2020\practicum\w2\sudoku\sudoku\sudoku.cpp(15): warning C4715: 'checkRow': not all control paths return a value
+d:\su_2019_2020\oop_2020\practicum\w2\sudoku\sudoku\sudoku.cpp(67): warning C4715: 'currentBox': not all control paths return a value
+d:\su_2019_2020\oop_2020\practicum\w2\sudoku\sudoku\sudoku.cpp(124): warning C4715: 'getNextZeroColIndex': not all control paths return a value
+d:\su_2019_2020\oop_2020\practicum\w2\sudoku\sudoku\sudoku.cpp(111): warning C4715: 'getNextZeroRowIndex': not all control paths return a value
+  sudoku.vcxproj -> D:\SU_2019_2020\OOP_2020\practicum\w2\sudoku\Debug\sudoku.exe

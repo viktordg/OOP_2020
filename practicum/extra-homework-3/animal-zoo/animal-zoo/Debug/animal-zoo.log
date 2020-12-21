@@ -1,0 +1,7 @@
+﻿  Zoo.cpp
+d:\su_2019_2020\oop_2020\practicum\extra-homework-3\animal-zoo\animal-zoo\zoo.h(17): warning C4018: '<': signed/unsigned mismatch
+d:\su_2019_2020\oop_2020\practicum\extra-homework-3\animal-zoo\animal-zoo\zoo.h(30): warning C4018: '<': signed/unsigned mismatch
+d:\su_2019_2020\oop_2020\practicum\extra-homework-3\animal-zoo\animal-zoo\zoo.cpp(18): warning C4018: '<': signed/unsigned mismatch
+d:\su_2019_2020\oop_2020\practicum\extra-homework-3\animal-zoo\animal-zoo\zoo.cpp(63): warning C4018: '<': signed/unsigned mismatch
+d:\su_2019_2020\oop_2020\practicum\extra-homework-3\animal-zoo\animal-zoo\zoo.cpp(71): warning C4018: '<': signed/unsigned mismatch
+  animal-zoo.vcxproj -> D:\SU_2019_2020\OOP_2020\practicum\extra-homework-3\animal-zoo\Debug\animal-zoo.exe
